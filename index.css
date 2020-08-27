@@ -80,6 +80,11 @@ img {
     align-items: center;
     align-self: flex-start;
 }
+
+.mail {
+    color: #ffffff;
+    text-decoration: none;
+}
 @media only screen and (max-width: 1140px) {
     .container {
         display: block
